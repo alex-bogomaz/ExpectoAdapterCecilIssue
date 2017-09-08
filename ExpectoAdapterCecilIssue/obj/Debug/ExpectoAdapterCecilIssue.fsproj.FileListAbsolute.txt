@@ -1,0 +1,10 @@
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\bin\Debug\ExpectoAdapterCecilIssue.XML
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\bin\Debug\ExpectoAdapterCecilIssue.dll
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\bin\Debug\ExpectoAdapterCecilIssue.pdb
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\bin\Debug\Expecto.dll
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\bin\Debug\FSharp.Core.dll
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\bin\Debug\System.ValueTuple.dll
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\bin\Debug\FSharp.Core.xml
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\obj\Debug\ExpectoAdapterCecilIssue.fsproj.CoreCompileInputs.cache
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\obj\Debug\ExpectoAdapterCecilIssue.dll
+D:\my\projects\ExpectoAdapterCecilIssue\ExpectoAdapterCecilIssue\obj\Debug\ExpectoAdapterCecilIssue.pdb
